@@ -1,0 +1,2 @@
+AWS:  organization, structure, cross account, IAM Account roles and permission policy: Service control policy, STS, permission boundary, advanced setting: cross account management, RAM, shared VPC
+AZURE: tenants, organization, Azure AD user, groups Account policy permission RBAC, conditional access policy, identity privilege management
